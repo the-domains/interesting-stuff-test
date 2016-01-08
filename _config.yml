@@ -2,6 +2,7 @@ name: Interesting Stuff Test
 favicon: null
 layout_spectrum: 0.25242
 typography_spectrum: 0.5891996033024043
+title: Test Title Area
 cta:
   domain: null
   bucket: null
