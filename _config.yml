@@ -1,0 +1,28 @@
+name: Interesting Stuff Test
+favicon: null
+layout_spectrum: 0.9017476646695286
+typography_spectrum: 0.5891996033024043
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4768472460564226
+  lightness: 0.4096725124400109
+  saturation: 0.9957554144784808
+  rhythmicContrast: 0.3223684160038829
+purpose: []
